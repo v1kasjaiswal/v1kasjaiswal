@@ -1,32 +1,16 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Vikas Jaiswal 👨‍💻 
-
-![](https://img.shields.io/github/followers/v1kasjaiswal?label=follow&logo=github&style=for-the-badge&color=aqua)
-![GitHub User's stars](https://img.shields.io/github/stars/v1kasjaiswal?label=%E2%AD%90GitHub%20stars&style=for-the-badge&color=aqua)
-![](https://komarev.com/ghpvc/?username=v1kasjaiswal&style=for-the-badge)
-
-<h1 style="font-size: 2.5rem; font-weight: bold; text-align: center;" align='center'> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="40px"> Hello World! <img src="https://media.giphy.com/media/fFEFxS3DE5VIY/giphy.gif" width="35px" /></h1>   
-
 ![mi perfil](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)
 
-# Connect with me:
-<p style="text-align: center; font-size: 1rem;" align='center'>👦🏻 Vikas Jaiswal | 🧑‍🎓 Learner | 👨‍💻 Passionate Software/Application Developer | 🇮🇳 India</p>
+# <div align='center'> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello Everyone!, I am Vikas Jaiswal 👨‍💻 
+</div>
+
+<p align='center'>
+An aspiring Computer Science student👾 | Python🐍 | Java🍵 | MySQL🐬 | Kotlin🍫 | Firebase🌐 
+</p>
 
 <div align='center' style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; column-gap: 20px;">
 <a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href="https://www.linkedin.com/in/v1kasjaiswal/" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="Vikas Jaiswal" width="30" /></a>
-
+<a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href="https://www.instagram.com/v1kasjaiswal/" target="blank"><img src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" alt="Vikas Jaiswal" width="30" /></a>
 </div>
-
-<br/>
-
-<h2>🌟 About Me</h2>
-
-<img align='right' style="border-radius:20rem" src="https://i.pinimg.com/originals/04/a2/cc/04a2cc1c7d7b194d56c70c6d90bb80cc.gif" height="" width="300" alt="coding cat">
-
-- 🎓 &nbsp; Computer Science Student
-- ⚡ &nbsp; Learning Android Application Development Using Kotlin
-- ✨ &nbsp; Likes To Play Minecraft, GTA V And COD MW II
-
-<hr>
 
 ## Technologies:
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
