@@ -24,11 +24,6 @@ An aspiring Computer Science student👾 | Python🐍 | Java🍵 | MySQL🐬 | K
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=social&logo=openjdk&logoColor=black)
   ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=social&logo=kotlin)
   
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=social&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=social&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=social&logo=javascript)
- 
 - 🛢 &nbsp;
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=social&logo=firebase)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=social&logo=mysql&logoColor=010101)   
