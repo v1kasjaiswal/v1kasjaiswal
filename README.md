@@ -1,37 +1,34 @@
-![mi perfil](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)
+![mi perfil](https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif)
 
-# <div align='center'> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello Everyone!, I am Vikas Jaiswal 👨‍💻 
+# <div align='center'>Hello Everyone!, I am Vikas Jaiswal 👨‍💻</div>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=45&duration=2500&pause=1000&color=A97CFF&center=true&random=false&width=1500&height=100&lines=Passionate+Computer+Science+Student!;Developing+Android+Applications+using+Kotlin!;I+Can+Fix+Your+Bugs%2C+Not+Your+Laptop!+)](https://git.io/typing-svg)
+
+## 👾Languages:
+
+<p align="center"> <a href="https://github.com/v1kasjaiswal"><img src="https://skillicons.dev/icons?i=python,mysql,java,kotlin,firebase"> </a> </p>
+
+## 🛠️Tools:
+
+<p align="center"> <a href="https://github.com/v1kajaiswal"><img src="https://skillicons.dev/icons?i=vscode,androidstudio,bash,git,github"> </a> </p>
+
+
+## 🔗Connect With Me:
+
+<p align="center">
+   <a href="mailto:vikasjaiswal1024@gmail.com"><img alt="gmail" title="Send me a Mail On Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+   <a href="https://www.linkedin.com/in/v1kasjaiswal/"><img alt="linkedin" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+   <a href="https://www.instagram.com/v1kasjaiswal/"><img alt="instagram" title="Follow me on Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+ </p>
+
+## ⚡Github Stats:
+<div align="center">
+    
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=v1kasjaiswal&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/v1kasjaiswal/github-readme-stats#gh-dark-mode-only)
 </div>
 
-<p align='center'>
-An aspiring Computer Science student👾 | Python🐍 | Java🍵 | MySQL🐬 | Kotlin🍫 | Firebase🌐 
-</p>
-
-<div align='center' style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; column-gap: 20px; margin-right: 0.8rem;">
-    <a href="https://www.linkedin.com/in/v1kasjaiswal/" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="Vikas Jaiswal" width="30" /></a>
-    <a href="https://www.instagram.com/v1kasjaiswal/" target="blank"><img src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" alt="Vikas Jaiswal" width="30" /></a>
-    <a href="mailto:vikasjaiswal1024@gmail.com" target="blank"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" alt="Vikas Jaiswal" width="30" /></a>
+## ⚡Github Activity:
+<div align="center">
+    
+[![GitHub Streak](https://streak-stats.demolab.com?user=v1kasjaiswal&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&card_width=470)](https://git.io/streak-stats)
 </div>
-
-<br>
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=v1kasjaiswal&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/v1kasjaiswal/github-readme-stats#gh-dark-mode-only)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v1kasjaiswal&show_icons=true&theme=tokyonight)](https://github.com/v1kasjaiswal/github-readme-stats)
-
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=social&logo=python)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=social&logo=openjdk&logoColor=black)
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=social&logo=kotlin)
-  
-- 🛢 &nbsp;
-  ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=social&logo=firebase)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=social&logo=mysql&logoColor=010101)   
-
-- 📴 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=social&logo=visual-studio-code&logoColor=007ACC)
-  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=social&logo=androidstudio)
-  
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=social&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=social&logo=github)  
