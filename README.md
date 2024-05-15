@@ -1,25 +1,24 @@
-![mi perfil](https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif)
+![mi perfil](https://miro.medium.com/v2/resize:fit:1400/0*kG-9BQIyUm8MblpZ.png)
 
-# <div align='center'>Hello Everyone!, I am Vikas Jaiswal 👨‍💻</div>
+# <div align='center'> I'm Vikas Jaiswal 🧑‍💻 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=45&duration=2500&pause=1000&color=A97CFF&center=true&random=false&width=1500&height=100&lines=Passionate+Computer+Science+Student!;Developing+Android+Applications+using+Kotlin!;I+Can+Fix+Your+Bugs%2C+Not+Your+Laptop!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=45&duration=3000&pause=1000&color=4184F4&center=true&vCenter=true&random=false&width=1500&lines=An+Aspiring+Android+Developer!;Developing+Android+Applications+using+Jetpack+Compose!;I+can+fix+your+bugs%2C+not+your+laptop!)](https://git.io/typing-svg)
+## 👾Programming Languages and Databases:
 
-## 👾Languages:
-
-<p align="center"> <a href="https://github.com/v1kasjaiswal"><img src="https://skillicons.dev/icons?i=python,mysql,java,kotlin,firebase"> </a> </p>
+<p align="center"> <a href="#"><img src="https://skillicons.dev/icons?i=kotlin,java,python,mysql,firebase"> </a> </p>
 
 ## 🛠️Tools:
 
-<p align="center"> <a href="https://github.com/v1kajaiswal"><img src="https://skillicons.dev/icons?i=vscode,androidstudio,bash,git,github"> </a> </p>
+<p align="center"> <a href="#"><img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,github,postman"> </a> </p>
 
 
 ## 🔗Connect With Me:
 
 <p align="center">
-   <a href="mailto:vikasjaiswal1024@gmail.com"><img alt="gmail" title="Send me a Mail On Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-   <a href="https://www.linkedin.com/in/v1kasjaiswal/"><img alt="linkedin" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-   <a href="https://www.instagram.com/v1kasjaiswal/"><img alt="instagram" title="Follow me on Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
- </p>
+   <a href="mailto:vikasjaiswal.coder@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a>
+   <a href="https://www.linkedin.com/in/v1kasjaiswal/"><img src="https://skillicons.dev/icons?i=linkedin"></a>
+   <a href="https://www.instagram.com/v1kasjaiswal/"><img src="https://skillicons.dev/icons?i=instagram"></a>
+</p>
 
 ## ⚡Github Stats:
 <div align="center">
