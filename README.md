@@ -1,6 +1,6 @@
 ![mi perfil](https://miro.medium.com/v2/resize:fit:1400/0*kG-9BQIyUm8MblpZ.png)
 
-# <div align='center'> I'm Vikas Jaiswal 🧑‍💻 </div>
+<div align='center'><h1> Hey!, I'm Vikas Jaiswal 🧑‍💻</h1> </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=45&duration=3000&pause=1000&color=4184F4&center=true&vCenter=true&random=false&width=1500&lines=An+Aspiring+Android+Developer!;Developing+Android+Applications+using+Jetpack+Compose!;I+can+fix+your+bugs%2C+not+your+laptop!)](https://git.io/typing-svg)
 ## 👾Programming Languages and Databases:
