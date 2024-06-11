@@ -1,4 +1,4 @@
-![mi perfil](https://miro.medium.com/v2/resize:fit:1400/0*kG-9BQIyUm8MblpZ.png)
+![mi perfil](./images/bg.png)
 
 <div align='center'><h1> Hey!, I'm Vikas Jaiswal 🧑‍💻</h1> </div>
 
